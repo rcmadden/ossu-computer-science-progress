@@ -53,7 +53,7 @@ To fill the gaps in my knowledge as I spend my time primarily working and buildi
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[high school algebra](https://www.khanacademy.org/math/algebra-home) | 10 weeks | 10 hours/week | none |In Progress [![Generic badge](https://img.shields.io/badge/Progres-25-Green.svg)](https://shields.io/)
+[high school algebra](https://www.khanacademy.org/math/algebra-home) | 10 weeks | 10 hours/week | none | In Progress [![Generic badge](https://img.shields.io/badge/Progres-25-Green.svg)](https://shields.io/)
 
 ## Intro CS
 
@@ -67,7 +67,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | Will Not Do[![Generic badge](https://img.shields.io/badge/Skipped-x-yellow.svg)](https://shields.io/)
+[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | Will Not Do [![Generic badge](https://img.shields.io/badge/Skipped-x-yellow.svg)](https://shields.io/)
 
 
 ### Introduction to Computer Science
