@@ -405,11 +405,17 @@ Upon completing your final project:
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.  
 
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)  
 
-[![Generic badge](https://img.shields.io/badge/Completed-100%-Green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Skipped-x-yellow.svg)](https://shields.io/)
 
-[![Generic badge](https://img.shields.io/badge/Complete-100%-Green.svg)](https://shields.io/)  
+[![Generic badge](https://img.shields.io/badge/Progres-25-Green.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/Progres-25%-Green.svg)](https://shields.io/)
+
+<!-- [![Generic badge](https://img.shields.io/badge/Completed-100%-Green.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/Complete-10-Green.svg)](https://shields.io/)   -->
 
 [![Generic badge](https://img.shields.io/badge/Complete-Green.svg)](https://shields.io/)
 
