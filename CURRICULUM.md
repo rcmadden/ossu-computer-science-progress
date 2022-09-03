@@ -1,24 +1,28 @@
-<h3 align="center">Open Source Society University</h3>
-<p align="center">
-  Computer Science Progress: Russia Madden
-</p>
-<p align="center">
-  <a href="https://github.com/ossu/computer-science">
-	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
-  </a>
-</p>
-
-**Duration**. Not that I'm actually counting, but using [this spreadsheet
-](https://docs.google.com/spreadsheets/d/19bpul0GmP8LycEziwk1d3y4dOoykVvcpbR6cd0LYmbo/edit?usp=sharing) to estimate.  
-
-
 # Curriculum
 
-## Prerequisites
+**Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-Courses | Topic | Portfolio | Prerequisites | Status
-:-- | :--: | :--: | :--: | :--:
-[High School Algebra](https://www.khanacademy.org/math/algebra-home) | Prerequisite | Notes | none | In Progress [![Generic badge](https://img.shields.io/badge/Progres-25-Green.svg)](https://shields.io/)
+- [Intro CS](#intro-cs)
+  - [Introduction to Programming](#introduction-to-programming)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+- [Core CS](#core-cs)
+  - [Core programming](#core-programming)
+  - [Core math](#core-math)
+  - [CS Tools](#cs-tools)
+  - [Core systems](#core-systems)
+  - [Core theory](#core-theory)
+  - [Core security](#core-security)
+  - [Core applications](#core-applications)
+  - [Core ethics](#core-ethics)
+- [Advanced CS](#advanced-cs)
+  - [Advanced programming](#advanced-programming)
+  - [Advanced systems](#advanced-systems)
+  - [Advanced theory](#advanced-theory)
+  - [Advanced information security](#advanced-information-security)
+  - [Advanced math](#advanced-math)
+- [Final project](#final-project)
+
+---  
 
 ## Intro CS
 
@@ -32,7 +36,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | Will Not Do [![Generic badge](https://img.shields.io/badge/Skipped-x-yellow.svg)](https://shields.io/)
+[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | 
 
 
 ### Introduction to Computer Science
@@ -348,44 +352,3 @@ Courses | Duration | Effort | Prerequisites
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
-
-### Evaluation
-
-Upon completing your final project:
-- Submit your project's information to [PROJECTS](PROJECTS.md) via a pull request.
-- Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-
-  - Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
-  - HTML: `<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
-- Use our [community](#community) channels to announce it to your fellow students.
-
-
-- Look for a job as a developer!
-- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging technologies in the world of software development:
-  + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
-  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.  
-
-
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)  
-
-[![Generic badge](https://img.shields.io/badge/Skipped-x-yellow.svg)](https://shields.io/)
-
-[![Generic badge](https://img.shields.io/badge/Progres-25-Green.svg)](https://shields.io/)
-
-<!-- [![Generic badge](https://img.shields.io/badge/Completed-100%-Green.svg)](https://shields.io/)
-
-[![Generic badge](https://img.shields.io/badge/Complete-10-Green.svg)](https://shields.io/)   -->
-
-[![Generic badge](https://img.shields.io/badge/Complete-Green.svg)](https://shields.io/)
-
-
-[![Generic badge](https://img.shields.io/badge/-Complete-Green.svg)](https://shields.io/) 
-
-[![Generic badge](https://img.shields.io/badge/Pending-grey.svg)](https://shields.io/) 
-
-
-[![Generic badge](https://img.shields.io/badge/Pending-grey.svg)]() 
