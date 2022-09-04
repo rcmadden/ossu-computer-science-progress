@@ -13,8 +13,7 @@
 
 
 # Curriculum
-
-## Courses
+**Curriculum version**: `8.0.0` (see [Curriculum](CURRICULUM.md))
 
 Courses | Topic | Portfolio | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
